@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MyCCBPJourney/static/css/main.b3df49d8.chunk.css",
+    "main.js": "/MyCCBPJourney/static/js/main.95f8f620.chunk.js",
+    "main.js.map": "/MyCCBPJourney/static/js/main.95f8f620.chunk.js.map",
+    "runtime-main.js": "/MyCCBPJourney/static/js/runtime-main.b6a6c4b3.js",
+    "runtime-main.js.map": "/MyCCBPJourney/static/js/runtime-main.b6a6c4b3.js.map",
+    "static/js/2.65e35d97.chunk.js": "/MyCCBPJourney/static/js/2.65e35d97.chunk.js",
+    "static/js/2.65e35d97.chunk.js.map": "/MyCCBPJourney/static/js/2.65e35d97.chunk.js.map",
+    "index.html": "/MyCCBPJourney/index.html",
+    "static/css/main.b3df49d8.chunk.css.map": "/MyCCBPJourney/static/css/main.b3df49d8.chunk.css.map",
+    "static/js/2.65e35d97.chunk.js.LICENSE.txt": "/MyCCBPJourney/static/js/2.65e35d97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6a6c4b3.js",
+    "static/js/2.65e35d97.chunk.js",
+    "static/css/main.b3df49d8.chunk.css",
+    "static/js/main.95f8f620.chunk.js"
+  ]
+}
